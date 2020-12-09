@@ -1,0 +1,9 @@
+<person S Smith N Tom >
+<person S Smith N John T +49.921.1434 >
+<person S Smith N Harry E hsmith@gmail.com >
+<person S Smith N Mary T +39.921.1434 E msmith@gmail.com >
+<person S John N John E jjohn@gmail.com T +33.921.1434 >
+
+<person N Peter S Pepo >
+<person N Tom S Pepoto T +49.921.1434 >
+<person N Tom S Tomson E ttomson@gmail.com T +49.921.1434 >
